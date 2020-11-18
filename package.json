@@ -1,6 +1,7 @@
 {
   "name": "vr-exploration",
   "version": "1.0.0",
+  "homepage": "https://MacEvelly.github.io/vr-exploration",
   "description": "VR playground for webXR",
   "main": "index.js",
   "scripts": {
