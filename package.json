@@ -1,0 +1,22 @@
+{
+  "name": "vr-exploration",
+  "version": "1.0.0",
+  "description": "VR playground for webXR",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [
+    "webxr",
+    "threejs",
+    "r3f",
+    "aframe",
+    "ar",
+    "babylonjs"
+  ],
+  "author": "Brett Williams",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
